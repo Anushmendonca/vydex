@@ -25,6 +25,13 @@
 - **Android:** Share → Vydex straight from YouTube or your browser. Downloads continue in the background.
 - Keeps itself working: the download engine updates automatically when websites change.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshot1.png" width="49%" alt="Vydex screenshot 1">
+  <img src="screenshot2.png" width="49%" alt="Vydex screenshot 2">
+</p>
+
 ## Which file do I download?
 
 | You have | Download | |
