@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anushmendonca/vydex/main/icon.png" width="96" alt="Vydex icon">
+  <img src="icon.png" width="96" alt="Vydex icon">
 </p>
 
 <h1 align="center">vydex.</h1>
